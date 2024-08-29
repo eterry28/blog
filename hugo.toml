@@ -1,0 +1,4 @@
+baseURL = 'https://eterry28.github.io/'
+languageCode = 'en-us'
+title = 'The Life and Times of Ultra Bro'
+theme = 'blowfish'

@@ -1,0 +1,12 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "eterry28.github.io"]
+	path = eterry28.github.io
+	url = https://github.com/eterry28/eterry28.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/eterry28/eterry28.github.io.git
+	branch = master
