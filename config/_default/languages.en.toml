@@ -14,32 +14,32 @@ title = "The Life and Times of Ultra Bro"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Eric Terry"
-#   email = "eterry28@gmail.com"
-#   image = "img/blowfish_logo.png"
+ [params.author]
+   name = "Eric Terry"
+   email = "eterry28@gmail.com"
+   image = "profile.jpg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+   headline = "I'm only human"
+   bio = "A little bit about you"
+   links = [
 #     { email = "mailto:eterry28@gmail.com.com" },
 #     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
+     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-#     { github = "https://github.com/eterry28" },
+     { github = "https://github.com/eterry28" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/username" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -65,4 +65,4 @@ title = "The Life and Times of Ultra Bro"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
