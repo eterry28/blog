@@ -13,4 +13,4 @@ The Chairman of the company wants to become a major player in the food and bever
 
 **Comrade Cola – Oppress Your Thirst!**
 
-![Comrade Cola](https://i0.wp.com/ericterry.us/wp-content/uploads/2019/07/Oppress.png)
+<img src="featured.webp" alt="Comrade Cola Poster" width="200"/>
