@@ -42,13 +42,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-<<<<<<< HEAD
-  layout = "page" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.jpg" # used in: hero, and card
-=======
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "cyberpunk.png" # used in: hero, and card
->>>>>>> deb9efd14e53b2d94969956c65484cdc4d43bb35
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
